@@ -1,4 +1,4 @@
-# videoFrameInterpolation
+# Video Frame Interpolation
 Video Frame Interpolation
 
 Capturing video(s) at a higher frame rate is challenging, and yet existing equipment is costly. One
